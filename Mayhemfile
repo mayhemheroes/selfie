@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-selfie
+target: selfie
+
+cmds:
+  - cmd: /selfie/selfie -c @@
+    filepath: test.c
