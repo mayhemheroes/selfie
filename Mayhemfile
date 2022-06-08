@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-selfie
+project: selfie
 target: selfie
 
 cmds:
-  - cmd: /selfie/selfie -c @@
+  - cmd: /selfie/selfie -c /test.c
     filepath: test.c
