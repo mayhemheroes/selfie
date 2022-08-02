@@ -2,7 +2,6 @@ project: selfie
 target: selfie
 
 cmds:
-  - cmd: /selfie/selfie -c /test.c
-    filepath: test.c
+  - cmd: /selfie -c /@@
     env:
       DISABLE_SMOKETEST: '1'
